@@ -76,3 +76,24 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+config db connection in .env file
+migration: php artisan migrate
+create controller: php artisan make:controller UserController --resource
+create router
+create seeder: composer dump-autoload, php artisan db:seed
+create view
+pagination
+
+bikin akun github
+regis github student developer pack
+instal git di komputer
+setup remote repo di komputer
+kalau udah connect, push pertama kali
+
+proses kerja:
+1. pull -> mendapatkan kodingan terupdate
+2. koding
+3. push -> simpan ke server
+
